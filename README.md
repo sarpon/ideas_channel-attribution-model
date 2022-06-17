@@ -1,5 +1,5 @@
 # channel-attribution-model
-An attention-based Recurrent Neural Net multi-touch attribution model in a supervised learning fashion of predicting if a series of events leads to conversion (purchase). The trained model can also assign credits to channels. The model also incorporates user-context information, such as user demographics and behavior, as control variables to reduce the estimation biases of media effects. ![Medium](https://medium.com/machine-learning-for-business-problem/how-to-implement-an-attention-rnn-into-solving-the-multi-channel-attribution-problem-6fa90d935859)
+An attention-based Recurrent Neural Net multi-touch attribution model in a supervised learning fashion of predicting if a series of events leads to conversion (purchase). The trained model can also assign credits to channels. The model also incorporates user-context information, such as user demographics and behavior, as control variables to reduce the estimation biases of media effects. [Medium](https://medium.com/machine-learning-for-business-problem/how-to-implement-an-attention-rnn-into-solving-the-multi-channel-attribution-problem-6fa90d935859)
 
 # backgroud
 It involves morethan 7-13 touches before a customer making a purchase
